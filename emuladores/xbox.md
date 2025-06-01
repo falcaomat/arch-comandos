@@ -4,7 +4,7 @@ https://youtu.be/Nq7KKIZZfOk
 # Site oficial para baixar o XEMU:
 https://xemu.app/
 
-# Arquivos de Bl0S:
+# Arquivos de Bios:
 https://emulation.gametechwiki.com/index.php/Emulator_files
 https://xbxbx.ams1.ppn.prutzel.com/?dir=xbins_xbox_mirror%2FConsole+Based+Applications%2Fbios%2Fcomplex
 
