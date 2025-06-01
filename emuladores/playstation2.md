@@ -8,7 +8,7 @@ https://pcsx2.net/
 https://vimm.net/?p=emulate
 
 # Na lista de emuladores, procure por "PlayStation 2".
-Agora clique em "PS2 BIOS" escrito em vermelho abaixo de Download.
+⚠️ Agora clique em "PS2 BIOS" escrito em vermelho abaixo de Download.
 
 # Alternativa 2:
 https://www.retrostic.com/pt/bios/pcsx2-playstation-2
