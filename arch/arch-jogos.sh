@@ -1,21 +1,16 @@
-
 # ATUALIZAÇÃO DO SISTEMA
 sudo pacman -Syu
 
-
 # STEAM - Loja e client oficial de jogos
 sudo pacman -S steam
-
 
 # DISCORD - Chat e voz para gamers
 # Discord oficial está no AUR
 yay -S discord
 
-
 # PARSEC - Streaming remoto de jogos
 # Parsec não está nos repositórios oficiais, instala pelo AUR
 yay -S parsec-bin
-
 
 # HEROIC GAMES LAUNCHER - Client para Epic Games, GOG, etc.
 yay -S heroic
