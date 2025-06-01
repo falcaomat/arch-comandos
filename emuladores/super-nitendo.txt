@@ -1,7 +1,6 @@
 #Snes9X: Melhor Emulador de Super Nintendo | Instalação + Configuração Completa:
 https://youtu.be/G0wECWCqut0
 
-
 #Site oficial para baixar o SNES9X:
 https://www.snes9x.com/
 
