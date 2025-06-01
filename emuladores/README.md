@@ -12,6 +12,5 @@ Cada arquivo contém:
 
 Acesse qualquer arquivo .txt dessa pasta 📁
 Leia com atenção as instruções 🔍
-Baixe, configure e...
 
 🕹️ Divirta-se como nos velhos tempos!
