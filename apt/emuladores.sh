@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Atualiza os repositórios e o sistema
 sudo apt update && sudo apt upgrade
 
