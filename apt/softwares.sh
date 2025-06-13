@@ -12,4 +12,9 @@ sudo apt install kdenlive
 sudo apt install inkscape
 #Reprodutor de vídeos
 sudo apt install vlc
+#Navegador
+sudo apt install brave
+#Editor de Documentos
+sudo apt install libreoffice
+
 
