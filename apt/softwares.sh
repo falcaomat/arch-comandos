@@ -1,20 +1,18 @@
 #!/bin/bash
 
 # Atualiza os repositórios e o sistema
-sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt upgrade -y
 # Captura de tela
-sudo apt install flameshot
+sudo apt install flameshot  -y
 #Editor de Imagem
-sudo apt install gimp
+sudo apt install gimp -y
 #Editor de Vídeo
-sudo apt install kdenlive
+sudo apt install kdenlive -y
 #Editor de Vetor
-sudo apt install inkscape
+sudo apt install inkscape -y 
 #Reprodutor de vídeos
-sudo apt install vlc
-#Navegador
-sudo apt install brave
+sudo apt install vlc -y
 #Editor de Documentos
-sudo apt install libreoffice
+sudo apt install libreoffice -y
 
 
