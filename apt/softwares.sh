@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Atualiza os repositórios e o sistema
+sudo apt update && sudo apt upgrade
 # Captura de tela
 sudo apt install flameshot
 #Editor de Imagem
